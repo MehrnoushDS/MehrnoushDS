@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science freelance
 - 🌱 I’m currently learning  Applied Data Scinece 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email: mehrnoush.ghonchehnazi@gmai.com
+- 📫 How to reach me via email: mehrnoush.ghonchehnazi@gmail.com
 
 <!---
 MehrnoushDS/MehrnoushDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
